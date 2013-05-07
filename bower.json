@@ -1,0 +1,11 @@
+{
+  "name": "forceDirected",
+  "version": "0.0.1",
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "gl-matrix":"2.2.0",
+    "requirejs":"*"
+  }
+}

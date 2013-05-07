@@ -1,6 +1,5 @@
 module.exports = function(grunt) {
 
-  // Project configuration.
   grunt.initConfig({
     coffee: {
       compileWithMaps:{
@@ -11,15 +10,17 @@ module.exports = function(grunt) {
           'js/forceDirected.js': 'src/forceDirected.coffee'
         }
       }
+    },
+    bower: {
+      target: {
+        rjsConfig: 'config.js'
+      }
     }
   });
 
-  // Load the plugin that provides the "uglify" task.
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-
   grunt.loadNpmTasks('grunt-contrib-coffee');
+  grunt.loadNpmTasks('grunt-bower-requirejs');
 
-  // Default task(s).
-  grunt.registerTask('default', ['coffee']);
+  grunt.registerTask('default', ['coffee', 'bower']);
 
 };
