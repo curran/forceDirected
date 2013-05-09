@@ -1,0 +1,786 @@
+[
+  {
+    "name": "zoe",
+    "message": "fatal: Unable to look up zestjs (port 9418) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "zed",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "yourpackagename",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "xybox",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "x-tag-pseudo-queue",
+    "message": "An error was caught when reading the component.json: Invalid name: \"X-Tag Queue Pseudo\""
+  },
+  {
+    "name": "wiseteck-geocomplete",
+    "message": "fatal: Unable to look up github.com (port wiseteck) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "whisper",
+    "message": "An error was caught when reading the bower.json: Failed to parse json\nUnexpected string"
+  },
+  {
+    "name": "warlock",
+    "message": "Error: LearnBoost/engine.io-client not found"
+  },
+  {
+    "name": "wand-boilerplate",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530t1jatq8'"
+  },
+  {
+    "name": "vie",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "vein",
+    "message": "Error: wearefractal/protosock not found"
+  },
+  {
+    "name": "urturn-expression-css",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "underscoreDeepExtend",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "ui-calendar",
+    "message": "fatal: Unable to look up github.com (port angular-ui) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "typeahead",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "twangular",
+    "message": "fatal: Unable to look up github.com (port pads) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "toolkit",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "tofu",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "time",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "three.asset",
+    "message": "An error was caught when reading the component.json: Invalid name: \"Three Asset\""
+  },
+  {
+    "name": "thickness",
+    "message": "An error was caught when reading the component.json: invalid version: 1.0"
+  },
+  {
+    "name": "therethere",
+    "message": "An error was caught when reading the component.json: Invalid name: \"There There\""
+  },
+  {
+    "name": "testingStash",
+    "message": "fatal: Unable to look up git@bitbucket.org (port zwogrammdev) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "test-huyest",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "testangular",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "ten",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "superagent",
+    "message": "Error: RedVentures/reduce not found"
+  },
+  {
+    "name": "sumatra",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530ifxplrk'"
+  },
+  {
+    "name": "suit-grid-responsive",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "sugar-less",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "subway.js",
+    "message": "Error: jquery.ba-throttle-debounce not found"
+  },
+  {
+    "name": "subakva-jquery.modal",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "stativus",
+    "message": "fatal: Unable to look up github.com (port etgryphon) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "stacktrace",
+    "message": "An error was caught when reading the component.json: invalid version: 0.5"
+  },
+  {
+    "name": "spine-mobile",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "smap",
+    "message": "Error: eriwen/es6-map-shim not found"
+  },
+  {
+    "name": "simple-styles",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token }"
+  },
+  {
+    "name": "ShadowScroll",
+    "message": "fatal: Unable to look up git@github.com (port oskarkrawczyk) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "scientist.js",
+    "message": "fatal: Unable to look up github.com (port jasonrhodes) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "s2mapper",
+    "message": "Error: ENOTDIR, lstat '/Users/curran/repos/forceDirected/bowerData/components/S2Mapper/.editorconfig/'"
+  },
+  {
+    "name": "rxjs-jquery",
+    "message": "Error: ENOTDIR, lstat '/Users/curran/repos/forceDirected/bowerData/components/S2Mapper/.gitattributes/'"
+  },
+  {
+    "name": "rxjs-html",
+    "message": "Error: ENOTDIR, lstat '/Users/curran/repos/forceDirected/bowerData/components/S2Mapper/.gitignore/'"
+  },
+  {
+    "name": "rxjs",
+    "message": "Error: ENOTDIR, lstat '/Users/curran/repos/forceDirected/bowerData/components/S2Mapper/.jshintrc/'"
+  },
+  {
+    "name": "rusha",
+    "message": "Error: ENOTDIR, lstat '/Users/curran/repos/forceDirected/bowerData/components/S2Mapper/.travis.yml/'"
+  },
+  {
+    "name": "RTLTextarea",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "rough-dropdown",
+    "message": "An error was caught when reading the component.json: invalid version: 0.2"
+  },
+  {
+    "name": "rough-collapse",
+    "message": "An error was caught when reading the component.json: invalid version: 0.2"
+  },
+  {
+    "name": "responsive-nav",
+    "message": "An error was caught when reading the bower.json: Failed to parse json\nUnexpected token ]"
+  },
+  {
+    "name": "requirejs.container",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "remotestorage",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "rdio",
+    "message": "fatal: Unable to look up github.com (port rdio) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "qm",
+    "message": "Error: No resolvable version for jquery"
+  },
+  {
+    "name": "pusher.color",
+    "message": "bitbucket.org[0: 207.223.240.182]: errno=Operation timed out\nbitbucket.org[0: 207.223.240.181]: errno=Operation timed out\nfatal: unable to connect a socket (Operation timed out)\n"
+  },
+  {
+    "name": "pulsar",
+    "message": "Error: wearefractal/protosock not found"
+  },
+  {
+    "name": "protosock",
+    "message": "Error: LearnBoost/engine.io-client not found"
+  },
+  {
+    "name": "protocol",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530rcp6kuo'"
+  },
+  {
+    "name": "promiser",
+    "message": "Error: learnboost/socket.io not found"
+  },
+  {
+    "name": "proj4leaflet",
+    "message": "Error: kriskowal/q not found"
+  },
+  {
+    "name": "progressbars",
+    "message": "The tag ~0.9 could not be found within the repository"
+  },
+  {
+    "name": "pre",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "pkg",
+    "message": "fatal: Unable to look up github.com (port burkeholland) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "pinch-grid",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "phantom",
+    "message": "fatal: remote error: \n  Storage server temporarily offline. See http://status.github.com for GitHub system status.\n"
+  },
+  {
+    "name": "packageName",
+    "message": "fatal: Unable to look up your (port 9418) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "p",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530rp1wtb4'"
+  },
+  {
+    "name": "oop",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "okzoom",
+    "message": "An error was caught when reading the component.json: invalid version: 1.1"
+  },
+  {
+    "name": "okhover",
+    "message": "An error was caught when reading the component.json: invalid version: 1.2"
+  },
+  {
+    "name": "oh-yeah",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "neoskop-angular-wiring-diagram-finder",
+    "message": "fatal: Unable to look up github.com (port neoskop) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "nc-presentation",
+    "message": "An error was caught when reading the component.json: Invalid name: \"Netcompany Presentation\""
+  },
+  {
+    "name": "native-console",
+    "message": "An error was caught when reading the component.json: no version"
+  },
+  {
+    "name": "money",
+    "message": "gitub.com[0: 208.87.35.103]: errno=Connection refused\nfatal: unable to connect a socket (Connection refused)\n"
+  },
+  {
+    "name": "melonJS",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "marionette-formview",
+    "message": "fatal: Unable to look up git@git.onehealth.com (port 2022) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "maria-script-template",
+    "message": "fatal: Unable to look up github.com (port petermichaux) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "maria-emphasize",
+    "message": "fatal: Unable to look up github.com (port petermichaux) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "maria",
+    "message": "fatal: Unable to look up github.com (port petermichaux) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "lungo.sugar.gmap",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "less-tests",
+    "message": "Error: grunt-contrib-jshint not found"
+  },
+  {
+    "name": "less.js",
+    "message": "Error: assemble-styles not found"
+  },
+  {
+    "name": "lesshat",
+    "message": "Error: grunt-contrib-clean not found"
+  },
+  {
+    "name": "less-elements",
+    "message": "Error: grunt not found"
+  },
+  {
+    "name": "less-css-toolkit",
+    "message": "Error: grunt-contrib-nodeunit not found"
+  },
+  {
+    "name": "less",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "lean",
+    "message": "Error: grunt-contrib-watch not found"
+  },
+  {
+    "name": "leaflet.RaphaelLayer",
+    "message": "Error: testem not found"
+  },
+  {
+    "name": "leaflet.markerclusterer",
+    "message": "Error: grunt-mocha-test not found"
+  },
+  {
+    "name": "leaflet",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "layerbackbone",
+    "message": "bitbucket.org[0: 207.223.240.182]: errno=Operation timed out\nbitbucket.org[0: 207.223.240.181]: errno=Operation timed out\nfatal: unable to connect a socket (Operation timed out)\n"
+  },
+  {
+    "name": "kojs",
+    "message": "fatal: remote error: \n  SteveSanderson/knockout/blob/master/build/output/knockout-latest.js is not a valid repository name\n  Email support@github.com for help\n"
+  },
+  {
+    "name": "knockback",
+    "message": "fatal: Unable to look up github.com (port kmalakoff) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "js-json-pointer",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "js-enhancements",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected string"
+  },
+  {
+    "name": "jquery.ui.montjquery.ui.monthpicker",
+    "message": "fatal: Unable to look up github.com (port thebrowser) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "jqueryservice",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "jquery-rotate",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "jquery-overscroll",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "jquery-mobile-reset",
+    "message": "An error was caught when reading the component.json: invalid version: 1.0"
+  },
+  {
+    "name": "jquery-metadata",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "jquery-lineup",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "jquery.keyfilter",
+    "message": "fatal: Unable to look up github.com (port akzhan) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "jquery-icon-insert",
+    "message": "An error was caught when reading the component.json: invalid version: 1.2"
+  },
+  {
+    "name": "jquery-filterer",
+    "message": "An error was caught when reading the component.json: Invalid name: \"jQuery Filterer\""
+  },
+  {
+    "name": "jquery.DataTables",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ]"
+  },
+  {
+    "name": "jquery-browser-selector",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "jquery.blockUI",
+    "message": "fatal: remote error: \n  malsup/blockui#~2.55.0-2013.01.23 is not a valid repository name\n  Email support@github.com for help\n"
+  },
+  {
+    "name": "Jquery-Alpha-Image",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "jquery-ajax-goodies",
+    "message": "fatal: Unable to look up github.com (port fantactuka) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "jqBootstrapValidation-sunng87",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "javascript-class",
+    "message": "The tag >= 1.0 could not be found within the repository"
+  },
+  {
+    "name": "its",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "ipython-codemirror",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "internet",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "icanhaz",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "HTMLXElement",
+    "message": "Error: x-tag not found"
+  },
+  {
+    "name": "hope",
+    "message": "fatal: remote error: \n  soyjavi/hope/package is not a valid repository name\n  Email support@github.com for help\n"
+  },
+  {
+    "name": "helpers",
+    "message": "Error: type not found"
+  },
+  {
+    "name": "helm.js",
+    "message": "Error: type not found"
+  },
+  {
+    "name": "handlebars-clauswitt",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "handlebars-amd",
+    "message": "fatal: remote error: access denied or repository not exported: /d/nw/dc/2d/22/8115232/8115232.git\n"
+  },
+  {
+    "name": "github.commits.widget",
+    "message": "An error was caught when reading the bower.json: Failed to parse json\nUnexpected token }"
+  },
+  {
+    "name": "giant-quadtree",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "gest",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "funkit",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "fragment",
+    "message": "fatal: Unable to look up github.com (port DanielRapp) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "feta",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "farbtastic",
+    "message": "Error: components/jquery not found"
+  },
+  {
+    "name": "famelo/navigation",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "famelo-navigation",
+    "message": "fatal: Unable to look up github.com (port mneuhaus) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "exiflocation",
+    "message": "Error: mattiasw/exifreader not found"
+  },
+  {
+    "name": "eve",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "escope",
+    "message": "fatal: Unable to look up github.com (port Constellation) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "ember-i18n",
+    "message": "The tag ~0.9.7 could not be found within the repository"
+  },
+  {
+    "name": "easy-tween",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "dry",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "dropzone",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530giyepio'"
+  },
+  {
+    "name": "default-typography",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "countree",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "contains.js",
+    "message": "fatal: Unable to look up github.com (port robertkowalski) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "collage",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "closure-library",
+    "message": "code.google.com[0: 74.125.226.238]: errno=Operation timed out\ncode.google.com[0: 74.125.226.228]: errno=Operation timed out\ncode.google.com[0: 74.125.226.226]: errno=Operation timed out\ncode.google.com[0: 74.125.226.230]: errno=Operation timed out\ncode.google.com[0: 74.125.226.233]: errno=Operation timed out\ncode.google.com[0: 74.125.226.229]: errno=Operation timed out\ncode.google.com[0: 74.125.226.231]: errno=Operation timed out\ncode.google.com[0: 74.125.226.232]: errno=Operation timed out\ncode.google.com[0: 74.125.226.225]: errno=Operation timed out\ncode.google.com[0: 74.125.226.224]: errno=Operation timed out\ncode.google.com[0: 74.125.226.227]: errno=Operation timed out\ncode.google.com[0: 2607:f8b0:4006:802::1001]: errno=No route to host\nfatal: unable to connect a socket (No route to host)\n"
+  },
+  {
+    "name": "checkjs",
+    "message": "fatal: Unable to look up github.com (port Ragil) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "cardify",
+    "message": "fatal: Unable to look up github.com (port mverhaagen) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "BullhornLess",
+    "message": "fatal: Unable to look up sourcecontrol (port 9418) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "bugsnag",
+    "message": "fatal: Unable to look up github.com (port bugsnag) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "bradvin/footable",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "bower-test",
+    "message": "localhost[0: 127.0.0.1]: errno=Connection refused\nlocalhost[0: ::1]: errno=Connection refused\nlocalhost[0: fe80::1%lo0]: errno=Connection refused\nfatal: unable to connect a socket (Connection refused)\n"
+  },
+  {
+    "name": "bootstrap-tags-pills",
+    "message": "Error: No resolvable version for jquery"
+  },
+  {
+    "name": "bootstrap-tags",
+    "message": "fatal: Unable to look up github.com (port sunliwen) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "bootstrap-css",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "bootstrap-accordion",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "boilerplates",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "bobun-binding",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "binary.js",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "big-surface",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "backbone.twitter",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.sm2",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "backbone.session",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.responsiveCSS3transitions.iscroll",
+    "message": "The tag 0.3.x could not be found within the repository"
+  },
+  {
+    "name": "backbone.mouse",
+    "message": "fatal: remote error: access denied or repository not exported: /5/57/db/02/gist/4333890.git\n"
+  },
+  {
+    "name": "backbone-managed-view",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "backbone.input.scroll",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.input.mouse",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.crudr",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.api.twitter",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.api.foursquare",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.api.facebook",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone.api.crudr",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token ,"
+  },
+  {
+    "name": "backbone-active-collection",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "autocompletejs",
+    "message": "fatal: Unable to look up github.com (port oakmac) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "aura-dist",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "aui",
+    "message": "bitbucket.org[0: 207.223.240.182]: errno=Operation timed out\nbitbucket.org[0: 207.223.240.181]: errno=Operation timed out\nfatal: unable to connect a socket (Operation timed out)\n"
+  },
+  {
+    "name": "augmenter",
+    "message": "An error was caught when reading the component.json: invalid version: 0.0.0.ALPHA"
+  },
+  {
+    "name": "assemble",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "array",
+    "message": "Error: component/to-function not found"
+  },
+  {
+    "name": "armory-blrrtstrap-userphoto",
+    "message": "Error: ENOENT, mkdir '/var/folders/Ce/CefclnI6H98-COe9x68aMk+++TI/-Tmp-/bower-component/emitter-13530nmslkao'"
+  },
+  {
+    "name": "annotate.js",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "annotate",
+    "message": "An error was caught when reading the component.json: no version"
+  },
+  {
+    "name": "angular-ui-select2",
+    "message": "Error: No resolvable version for jquery"
+  },
+  {
+    "name": "angular-translate",
+    "message": "fatal: Unable to look up github.com (port PascalPrecht) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "angular-tera2k",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "angular-paginator",
+    "message": "fatal: Unable to look up github.com (port PascalPrecht) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "angular-orginal-filter",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "angular-module",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "angular-modernizr",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "angular-mobile",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected end of input"
+  },
+  {
+    "name": "angular-kb",
+    "message": "Error: No resolvable version for jquery"
+  },
+  {
+    "name": "angularjs-scope.safeapply",
+    "message": "fatal: Unable to look up github.com (port yearofmoo) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "angularjs-ordinal-filter",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected token }"
+  },
+  {
+    "name": "angular-io",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "angular-hammerjs",
+    "message": "An error was caught when reading the component.json: Failed to parse json\nUnexpected string"
+  },
+  {
+    "name": "angular-hammer",
+    "message": "fatal: Unable to look up github.com (port matiboy) (nodename nor servname provided, or not known)\n"
+  },
+  {
+    "name": "angular-chosen.js",
+    "message": "TypeError: Arguments to path.join must be strings"
+  },
+  {
+    "name": "ame-studio",
+    "message": "fatal: remote error: \n  Repository not found.\n"
+  },
+  {
+    "name": "666",
+    "message": "Error: undefined not found"
+  }
+]

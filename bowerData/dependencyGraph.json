@@ -1,0 +1,1991 @@
+{
+  "Adamin-Clone": [
+    "jquery"
+  ],
+  "ApiBuilder": [
+    "jquery",
+    "underscore",
+    "almond"
+  ],
+  "Appbar": [
+    "x-tag-core"
+  ],
+  "Backbone-Mediator": [
+    "backbone"
+  ],
+  "Backbone.ActionPack": [
+    "backbone",
+    "url-js"
+  ],
+  "Backbone.Facetr": [
+    "underscore",
+    "backbone"
+  ],
+  "Backbone.Marionette.Hbs": [
+    "handlebars",
+    "backbone",
+    "backbone.marionette"
+  ],
+  "Backbone.Mutators": [
+    "underscore",
+    "backbone"
+  ],
+  "Backbone.Spinner": [
+    "backbone",
+    "spin.js"
+  ],
+  "BackboneMobileUI": [
+    "jquery",
+    "underscore",
+    "backbone",
+    "backbone.super",
+    "handlebars"
+  ],
+  "ColtJS": [
+    "requirejs"
+  ],
+  "DataTables": [
+    "jquery"
+  ],
+  "Espy": [
+    "jquery"
+  ],
+  "Eventable": [
+    "lodash"
+  ],
+  "FitText.js": [
+    "jquery"
+  ],
+  "Flipbox": [
+    "x-tag-core"
+  ],
+  "Flot": [
+    "jquery"
+  ],
+  "Fluorine": [
+    "jquery",
+    "underscore"
+  ],
+  "Iframe-Auto-Height-Jquery-Plugin": [
+    "jquery"
+  ],
+  "Konami.js": [
+    "jquery"
+  ],
+  "LeafletMaps": [
+    "x-tag-core"
+  ],
+  "Looper.js": [
+    "jquery"
+  ],
+  "MediaQuery": [
+    "x-tag-core"
+  ],
+  "Modal": [
+    "x-tag-core",
+    "x-tag-mixin-request"
+  ],
+  "Nepalify": [
+    "jquery"
+  ],
+  "OKVideo": [
+    "jquery"
+  ],
+  "PenguinJS": [
+    "chai",
+    "sinon"
+  ],
+  "PlaceholderPolyfil": [
+    "jquery"
+  ],
+  "Retrofy": [
+    "jquery"
+  ],
+  "S2Mapper": [
+    "jquery",
+    "requirejs",
+    "requirejs-domready",
+    "requirejs-text",
+    "underscore"
+  ],
+  "SPARQL": [
+    "jquery"
+  ],
+  "ServiceRegistry.js": [
+    "requirejs"
+  ],
+  "Shiftbox": [
+    "x-tag-core"
+  ],
+  "SlidesJS": [
+    "jquery"
+  ],
+  "Spielwiese": [
+    "jquery"
+  ],
+  "ThemesTent": [
+    "jquery",
+    "fastclick",
+    "FitText.js",
+    "typeplate",
+    "bxslider-4"
+  ],
+  "URIjs": [
+    "jquery"
+  ],
+  "URL.js": [
+    "jquery",
+    "lodash"
+  ],
+  "WebSocketStream": [
+    "Node-in-browser"
+  ],
+  "WorkerD": [
+    "requirejs",
+    "text",
+    "jquery"
+  ],
+  "accordion": [
+    "x-tag-core"
+  ],
+  "actionbar": [
+    "jquery",
+    "backbone",
+    "underscore"
+  ],
+  "aerogear": [
+    "jquery"
+  ],
+  "albox": [
+    "jquery"
+  ],
+  "alchemy": [
+    "angular",
+    "jquery"
+  ],
+  "alchemy-buttons": [
+    "angular",
+    "jquery",
+    "alchemy"
+  ],
+  "alchemy-forms": [
+    "angular",
+    "jquery",
+    "alchemy",
+    "alchemy-buttons"
+  ],
+  "alchemy-header": [
+    "angular",
+    "jquery",
+    "alchemy"
+  ],
+  "alchemy-tables": [
+    "angular",
+    "jquery",
+    "ngInfiniteScroll",
+    "alchemy",
+    "alchemy-forms"
+  ],
+  "allplayers-theme": [
+    "jquery"
+  ],
+  "alpaca": [
+    "jquery",
+    "jquery-tmpl",
+    "jquery-ui",
+    "ace"
+  ],
+  "amd-global-modules": [
+    "decorate"
+  ],
+  "andamiojs": [
+    "jquery",
+    "backbone"
+  ],
+  "angular-audio-player": [
+    "angular"
+  ],
+  "angular-blocks": [
+    "jquery",
+    "angular"
+  ],
+  "angular-carousel": [
+    "angular"
+  ],
+  "angular-cookies": [
+    "angular"
+  ],
+  "angular-d3": [
+    "d3"
+  ],
+  "angular-dragon-drop": [
+    "angular"
+  ],
+  "angular-elastic": [
+    "angular"
+  ],
+  "angular-filters": [
+    "angular"
+  ],
+  "angular-firebase": [
+    "angular"
+  ],
+  "angular-foursquare": [
+    "angular"
+  ],
+  "angular-geolocation": [
+    "angular"
+  ],
+  "angular-gestures": [
+    "angular",
+    "hammerjs"
+  ],
+  "angular-google-maps": [
+    "angular"
+  ],
+  "angular-loader": [
+    "angular"
+  ],
+  "angular-local-storage": [
+    "angular"
+  ],
+  "angular-lungo": [
+    "lungo",
+    "angular-resource"
+  ],
+  "angular-markdown-directive": [
+    "angular",
+    "showdown"
+  ],
+  "angular-mocks": [
+    "angular"
+  ],
+  "angular-modules": [
+    "angular"
+  ],
+  "angular-momentum-scroll": [
+    "angular"
+  ],
+  "angular-mousewheel": [
+    "angular",
+    "hamsterjs"
+  ],
+  "angular-phonegap-accelerometer": [
+    "angular",
+    "angular-phonegap-ready"
+  ],
+  "angular-phonegap-geolocation": [
+    "angular",
+    "angular-phonegap-ready"
+  ],
+  "angular-phonegap-notification": [
+    "angular",
+    "angular-phonegap-ready"
+  ],
+  "angular-phonegap-ready": [
+    "angular"
+  ],
+  "angular-piwik": [
+    "angular"
+  ],
+  "angular-resource": [
+    "angular"
+  ],
+  "angular-resource-unstable": [
+    "angular-unstable"
+  ],
+  "angular-sanitize": [
+    "angular"
+  ],
+  "angular-scenario": [
+    "angular"
+  ],
+  "angular-segmentio": [
+    "angular"
+  ],
+  "angular-socket-io": [
+    "angular"
+  ],
+  "angular-strap": [
+    "jquery",
+    "bootstrap",
+    "bootstrap-datepicker",
+    "bootstrap-timepicker",
+    "bootstrap-select"
+  ],
+  "angular-svg-fallback": [
+    "modernizr"
+  ],
+  "angular-ui-ace": [
+    "angular",
+    "ace-builds"
+  ],
+  "angular-ui-calendar": [
+    "angular",
+    "jquery",
+    "jquery-ui",
+    "fullcalendar"
+  ],
+  "angular-ui-codemirror": [
+    "angular",
+    "codemirror"
+  ],
+  "angular-ui-date": [
+    "angular",
+    "jquery-ui"
+  ],
+  "angular-ui-multi-sortba": [
+    "jquery",
+    "angular"
+  ],
+  "angular-ui-utils": [
+    "angular"
+  ],
+  "angular-unicorn-directive": [
+    "angular"
+  ],
+  "angular-virtual-scroll": [
+    "angular"
+  ],
+  "angular-youtube": [
+    "angular"
+  ],
+  "angulr-collection": [
+    "angular"
+  ],
+  "ants": [
+    "jquery"
+  ],
+  "armory": [
+    "annihilate.css",
+    "stylus-visibility"
+  ],
+  "armory-base-armor-logo": [
+    "stylus-ir"
+  ],
+  "armory-base-media": [
+    "stylus-media-block"
+  ],
+  "armory-blrrstrap-armor-logo": [
+    "stylus-ir"
+  ],
+  "armory-blrrtstrap": [
+    "annihilate.css",
+    "armory-blrrtstrap-animate",
+    "armory-blrrtstrap-armor-badge",
+    "armory-blrrtstrap-armor-logo",
+    "armory-blrrtstrap-blrrt",
+    "armory-blrrtstrap-button",
+    "armory-blrrtstrap-checkbox",
+    "armory-blrrtstrap-draft",
+    "armory-blrrtstrap-dropout-menu",
+    "armory-blrrtstrap-file-input",
+    "armory-blrrtstrap-form",
+    "armory-blrrtstrap-form-fieldset",
+    "armory-blrrtstrap-form-label",
+    "armory-blrrtstrap-heading",
+    "armory-blrrtstrap-icon",
+    "armory-blrrtstrap-lightbox",
+    "armory-blrrtstrap-link",
+    "armory-blrrtstrap-link-list",
+    "armory-blrrtstrap-logo",
+    "armory-blrrtstrap-masthead",
+    "armory-blrrtstrap-media",
+    "armory-blrrtstrap-mediaplayer-control",
+    "armory-blrrtstrap-navigation-menu",
+    "armory-blrrtstrap-paragraph",
+    "armory-blrrtstrap-scrollable-window",
+    "armory-blrrtstrap-select2",
+    "armory-blrrtstrap-slider",
+    "armory-blrrtstrap-soundwave",
+    "armory-blrrtstrap-space",
+    "armory-blrrtstrap-stack",
+    "armory-blrrtstrap-stream",
+    "armory-blrrtstrap-subheading",
+    "armory-blrrtstrap-text",
+    "armory-blrrtstrap-text-button",
+    "armory-blrrtstrap-textbox",
+    "armory-blrrtstrap-tgd",
+    "armory-blrrtstrap-tipsy",
+    "armory-blrrtstrap-userphoto"
+  ],
+  "armory-blrrtstrap-animate": [
+    "animate.css"
+  ],
+  "armory-blrrtstrap-armor-badge": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-armor-logo": [
+    "stylus-ir"
+  ],
+  "armory-blrrtstrap-blrrt": [
+    "stylus-grid",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-button": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-checkbox": [
+    "armory-blrrtstrap-text"
+  ],
+  "armory-blrrtstrap-draft": [
+    "armory-blrrtstrap-blrrt",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-dropout-menu": [
+    "armory-base-stack",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-file-input": [
+    "armory-base-file-input"
+  ],
+  "armory-blrrtstrap-form": [
+    "armory-base-stack",
+    "armory-blrrtstrap-paragraph",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-form-label": [
+    "stylus-visibility"
+  ],
+  "armory-blrrtstrap-heading": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-lightbox": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-link-list": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-logo": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-masthead": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-media": [
+    "armory-base-media"
+  ],
+  "armory-blrrtstrap-mediaplayer-control": [
+    "armory-blrrtstrap-text-button"
+  ],
+  "armory-blrrtstrap-navigation-menu": [
+    "armory-base-stack",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-paragraph": [
+    "armory-blrrtstrap-text"
+  ],
+  "armory-blrrtstrap-progress-bar": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-select2": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-soundwave": [
+    "stylus-vertical-rhythm",
+    "stylus-visibility"
+  ],
+  "armory-blrrtstrap-space": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-stack": [
+    "armory-base-stack",
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-stream": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-subheading": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-text": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-textbox": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-tgd": [
+    "stylus-vertical-rhythm"
+  ],
+  "armory-blrrtstrap-userphoto": [
+    "stylus-vertical-rhythm"
+  ],
+  "aura": [
+    "jquery",
+    "underscore",
+    "eventemitter2",
+    "requirejs",
+    "requirejs-text"
+  ],
+  "aura-express": [
+    "jquery",
+    "underscore",
+    "eventemitter2",
+    "requirejs",
+    "requirejs-text"
+  ],
+  "awesome-form": [
+    "stylus-type-utils"
+  ],
+  "backbone-associations": [
+    "backbone",
+    "underscore"
+  ],
+  "backbone-cache": [
+    "jquery",
+    "backbone-amd",
+    "jscache",
+    "underscore-amd",
+    "async"
+  ],
+  "backbone-computedfields": [
+    "underscore",
+    "backbone"
+  ],
+  "backbone-dombuilder": [
+    "jquery",
+    "underscore"
+  ],
+  "backbone-ko": [
+    "backbone",
+    "knockout",
+    "knockout-mapping"
+  ],
+  "backbone-nested-models": [
+    "backbone"
+  ],
+  "backbone-pageable": [
+    "underscore",
+    "backbone"
+  ],
+  "backbone-template": [
+    "backbone.app"
+  ],
+  "backbone-ui-modal": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone-vanilla-js-objects": [
+    "backbone",
+    "underscore"
+  ],
+  "backbone.app": [
+    "backbone",
+    "jquery",
+    "underscore"
+  ],
+  "backbone.avgrund": [
+    "jquery",
+    "backbone",
+    "underscore"
+  ],
+  "backbone.basicauth": [
+    "backbone",
+    "underscore"
+  ],
+  "backbone.clickdebounce": [
+    "underscore",
+    "backbone"
+  ],
+  "backbone.collectionsubset": [
+    "backbone"
+  ],
+  "backbone.collectionview": [
+    "backbone"
+  ],
+  "backbone.datagrid": [
+    "backbone"
+  ],
+  "backbone.handlebars": [
+    "backbone"
+  ],
+  "backbone.include": [
+    "backbone"
+  ],
+  "backbone.marionette": [
+    "jquery",
+    "backbone"
+  ],
+  "backbone.module": [
+    "backbone",
+    "underscore"
+  ],
+  "backbone.pryv": [
+    "backbone"
+  ],
+  "backbone.record": [
+    "jquery",
+    "backbone",
+    "underscore"
+  ],
+  "backbone.responsiveCSS3transitions": [
+    "backbone"
+  ],
+  "backbone.siren": [
+    "backbone",
+    "jquery",
+    "underscore"
+  ],
+  "backbone.sync.padrino": [
+    "backbone"
+  ],
+  "backbone.tv": [
+    "jquery",
+    "lodash",
+    "backbone"
+  ],
+  "backbone.ui.rows": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone.ui.sidenav": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone.ui.slider": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone.ui.slideshow": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone.ui.tags": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "backbone.utils.dariocravero": [
+    "jquery",
+    "backbone"
+  ],
+  "backbone.viewdsl": [
+    "jquery",
+    "backbone",
+    "underscore"
+  ],
+  "backbone.viewevents": [
+    "backbone",
+    "underscore"
+  ],
+  "backbrace": [
+    "underscore",
+    "backbone"
+  ],
+  "bagman": [
+    "jquery"
+  ],
+  "bags": [
+    "q",
+    "knockout"
+  ],
+  "basket.js": [
+    "rsvp"
+  ],
+  "bespoke-bullets": [
+    "bespoke.js"
+  ],
+  "bespoke-hash": [
+    "bespoke.js"
+  ],
+  "bespoke-loop": [
+    "bespoke.js"
+  ],
+  "bespoke-state": [
+    "bespoke.js"
+  ],
+  "bespoke-vcr": [
+    "bespoke.js"
+  ],
+  "bobun": [
+    "backbone",
+    "backbone.babysitter"
+  ],
+  "bobun-ui": [
+    "bobun"
+  ],
+  "bootstrap": [
+    "jquery"
+  ],
+  "bootstrap-ajax": [
+    "jquery"
+  ],
+  "bootstrap-assets": [
+    "jquery"
+  ],
+  "bootstrap-calendar": [
+    "jquery",
+    "bootstrap",
+    "underscore"
+  ],
+  "bootstrap-datepicker": [
+    "jquery",
+    "bootstrap"
+  ],
+  "bootstrap-datetimepicker": [
+    "jquery",
+    "bootstrap"
+  ],
+  "bootstrap-dialogs": [
+    "bootstrap",
+    "jquery"
+  ],
+  "bootstrap-js": [
+    "jquery"
+  ],
+  "bootstrap-timepicker": [
+    "bootstrap",
+    "jquery",
+    "autotype"
+  ],
+  "bootstrap-tour": [
+    "bootstrap",
+    "jquery"
+  ],
+  "bootstrap-wysihtml5": [
+    "wysihtml5"
+  ],
+  "bootswatch": [
+    "bootstrap"
+  ],
+  "breakpoint": [
+    "jquery"
+  ],
+  "browser-mobile-timeline": [
+    "underscore",
+    "backbone",
+    "bootstrap",
+    "requirejs-tpl",
+    "requirejs"
+  ],
+  "browser-timeline": [
+    "underscore",
+    "backbone",
+    "jquery-ui",
+    "bootstrap",
+    "requirejs-tpl",
+    "requirejs"
+  ],
+  "bselect": [
+    "jquery"
+  ],
+  "btapp": [
+    "jquery",
+    "jStorage",
+    "underscore",
+    "backbone"
+  ],
+  "buster-jquery-assertions": [
+    "buster.js"
+  ],
+  "cal-heatmap": [
+    "d3"
+  ],
+  "canjs-localstorage": [
+    "canjs"
+  ],
+  "cassie-client.js": [
+    "jquery"
+  ],
+  "chaplin": [
+    "backbone"
+  ],
+  "cjs": [
+    "amd-loader"
+  ],
+  "classical": [
+    "requirejs"
+  ],
+  "clickd": [
+    "jquery"
+  ],
+  "cloak": [
+    "bourbon"
+  ],
+  "codecode": [
+    "jquery"
+  ],
+  "codemirror-graphite": [
+    "codemirror"
+  ],
+  "components-bootstrap": [
+    "jquery"
+  ],
+  "compose.js": [
+    "underscore"
+  ],
+  "container-queries": [
+    "jquery",
+    "underscore"
+  ],
+  "core.less": [
+    "bootstrap"
+  ],
+  "cram": [
+    "when",
+    "curl"
+  ],
+  "csscritic": [
+    "rasterizeHTML.js"
+  ],
+  "customForms": [
+    "jquery"
+  ],
+  "d3-tip": [
+    "d3"
+  ],
+  "dataroles.js": [
+    "jquery"
+  ],
+  "dejavu": [
+    "mout"
+  ],
+  "delegate.js": [
+    "matches.js"
+  ],
+  "depot": [
+    "es5-shim"
+  ],
+  "doc-ready": [
+    "eventEmitter",
+    "eventie"
+  ],
+  "dox": [
+    "marked"
+  ],
+  "dragbox": [
+    "x-tag-core"
+  ],
+  "draggabilly": [
+    "classie",
+    "eventEmitter",
+    "eventie",
+    "get-size",
+    "get-style-property"
+  ],
+  "drawingboard.js": [
+    "jquery"
+  ],
+  "easyfacebook.jquery.js": [
+    "jquery"
+  ],
+  "ember": [
+    "jquery",
+    "handlebars"
+  ],
+  "ember-localstorage-adapter": [
+    "ember",
+    "ember-data"
+  ],
+  "ember-progressbars": [
+    "ember"
+  ],
+  "ember.js": [
+    "jquery",
+    "handlebars"
+  ],
+  "emblem.js": [
+    "handlebars"
+  ],
+  "es6": [
+    "amd-loader"
+  ],
+  "escodegen": [
+    "estraverse",
+    "esprima"
+  ],
+  "escope": [
+    "estraverse"
+  ],
+  "eslevels": [
+    "escope",
+    "estraverse"
+  ],
+  "espresso": [
+    "jquery"
+  ],
+  "estimate-tasks": [
+    "underscore"
+  ],
+  "expect-change": [
+    "expect"
+  ],
+  "facebook-overflow": [
+    "jquery"
+  ],
+  "fancy-zoom": [
+    "jquery"
+  ],
+  "fancybox1": [
+    "jquery"
+  ],
+  "fbAlbum": [
+    "jquery"
+  ],
+  "fidel": [
+    "jquery"
+  ],
+  "fidel-modal": [
+    "jquery",
+    "fidel",
+    "baseline"
+  ],
+  "fidel-router": [
+    "fidel",
+    "routie"
+  ],
+  "fidel-slider": [
+    "fidel"
+  ],
+  "fidel-template": [
+    "fidel",
+    "template"
+  ],
+  "fit": [
+    "jquery"
+  ],
+  "fjs": [
+    "underscore"
+  ],
+  "fleck": [
+    "jquery"
+  ],
+  "flight": [
+    "es5-shim",
+    "jquery"
+  ],
+  "flight-storage": [
+    "flight"
+  ],
+  "floater": [
+    "fidel"
+  ],
+  "framejax": [
+    "jquery"
+  ],
+  "fullcalendar": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "fusebox": [
+    "jquery",
+    "underscore"
+  ],
+  "garlicjs": [
+    "jquery"
+  ],
+  "geometry": [
+    "Vector2D"
+  ],
+  "get-size": [
+    "get-style-property"
+  ],
+  "gignal-widget": [
+    "backbone",
+    "underscore",
+    "isotope"
+  ],
+  "glimpse.js": [
+    "d3",
+    "almond",
+    "requirejs"
+  ],
+  "graphics": [
+    "Node",
+    "jquery",
+    "underscore",
+    "Vector2D"
+  ],
+  "hallo.js": [
+    "jquery",
+    "jquery-ui",
+    "rangy",
+    "jquery-htmlclean"
+  ],
+  "hamburger": [
+    "bourbon"
+  ],
+  "hammerjs-ts": [
+    "hammerjs"
+  ],
+  "handlebars-x18n": [
+    "handlebars",
+    "x18n"
+  ],
+  "head-require": [
+    "headjs"
+  ],
+  "hoodie": [
+    "jquery"
+  ],
+  "hoodie.admin": [
+    "hoodie"
+  ],
+  "hoverhero": [
+    "jquery",
+    "fidel"
+  ],
+  "hstrap": [
+    "hiso-font"
+  ],
+  "hydra-code": [
+    "stylus-type-utils"
+  ],
+  "hydra-grid": [
+    "stylus-type-utils"
+  ],
+  "image-uploader": [
+    "framejax"
+  ],
+  "imageBackbone": [
+    "jquery",
+    "modernizr",
+    "underscore",
+    "backbone",
+    "PxLoader",
+    "tweenMax"
+  ],
+  "imagery": [
+    "jquery"
+  ],
+  "imgLiquid": [
+    "jquery"
+  ],
+  "input-groups": [
+    "stylus-type-utils"
+  ],
+  "integration": [
+    "when"
+  ],
+  "iosSlider": [
+    "jquery"
+  ],
+  "iosbadge": [
+    "jquery"
+  ],
+  "isis": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "jAplus": [
+    "jquery"
+  ],
+  "jQuery-Collapse": [
+    "jquery"
+  ],
+  "jQuery-One-Page-Nav": [
+    "jquery"
+  ],
+  "jQuery.loadFeed": [
+    "jquery",
+    "handlebars"
+  ],
+  "jakobmattsson-farbtastic": [
+    "jquery"
+  ],
+  "jakobmattsson-jquery-elastic": [
+    "jquery"
+  ],
+  "jakobmattsson-uploadify": [
+    "jquery"
+  ],
+  "jasmine-signals": [
+    "js-signals"
+  ],
+  "jcarousel": [
+    "jquery"
+  ],
+  "jefri": [
+    "superscore"
+  ],
+  "jefri-angular": [
+    "jefri",
+    "jquery"
+  ],
+  "jefri-stores": [
+    "jefri"
+  ],
+  "jleader": [
+    "jquery",
+    "jStorage"
+  ],
+  "jmpress": [
+    "jquery"
+  ],
+  "jquery-async": [
+    "jquery"
+  ],
+  "jquery-atmosphere": [
+    "jquery"
+  ],
+  "jquery-autocomplete": [
+    "jquery"
+  ],
+  "jquery-autosize": [
+    "jquery"
+  ],
+  "jquery-colorbox": [
+    "jquery"
+  ],
+  "jquery-contenteditable": [
+    "jquery"
+  ],
+  "jquery-csspick": [
+    "jquery"
+  ],
+  "jquery-dragEvents": [
+    "jquery"
+  ],
+  "jquery-dragon": [
+    "jquery"
+  ],
+  "jquery-easing": [
+    "jquery"
+  ],
+  "jquery-gholiday": [
+    "jquery"
+  ],
+  "jquery-grab-bag": [
+    "jquery"
+  ],
+  "jquery-grill": [
+    "jquery"
+  ],
+  "jquery-htmlclean": [
+    "jquery"
+  ],
+  "jquery-ias": [
+    "jquery"
+  ],
+  "jquery-interdependencies": [
+    "jquery"
+  ],
+  "jquery-manifest": [
+    "jquery",
+    "jquery-marcopolo"
+  ],
+  "jquery-maptack": [
+    "jquery"
+  ],
+  "jquery-marcopolo": [
+    "jquery"
+  ],
+  "jquery-masonry": [
+    "jquery"
+  ],
+  "jquery-miniColors": [
+    "jquery"
+  ],
+  "jquery-nod": [
+    "jquery"
+  ],
+  "jquery-oauthpopup": [
+    "jquery"
+  ],
+  "jquery-popunder": [
+    "jquery",
+    "jquery.cookie"
+  ],
+  "jquery-rdfquery": [
+    "jquery"
+  ],
+  "jquery-styledform": [
+    "jquery"
+  ],
+  "jquery-three": [
+    "jquery"
+  ],
+  "jquery-ui": [
+    "jquery"
+  ],
+  "jquery-ui-bootstrap": [
+    "jquery-ui"
+  ],
+  "jquery-whenall": [
+    "jquery"
+  ],
+  "jquery-zoom": [
+    "jquery"
+  ],
+  "jquery.autotab": [
+    "jquery"
+  ],
+  "jquery.barcode_input": [
+    "jwerty"
+  ],
+  "jquery.center.js": [
+    "jquery"
+  ],
+  "jquery.checkalize": [
+    "jquery"
+  ],
+  "jquery.cookie": [
+    "jquery"
+  ],
+  "jquery.couch": [
+    "jquery"
+  ],
+  "jquery.customSelect": [
+    "jquery"
+  ],
+  "jquery.cycle": [
+    "jquery"
+  ],
+  "jquery.extendedinput": [
+    "jquery"
+  ],
+  "jquery.finger": [
+    "jquery"
+  ],
+  "jquery.fitvids": [
+    "jquery"
+  ],
+  "jquery.floatingmessage": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "jquery.foobar": [
+    "jquery"
+  ],
+  "jquery.hurl": [
+    "jquery"
+  ],
+  "jquery.iconfield": [
+    "jquery"
+  ],
+  "jquery.jscrollpane": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "jquery.keyfilter": [
+    "jquery"
+  ],
+  "jquery.loadmask.spin": [
+    "jquery",
+    "spin.js"
+  ],
+  "jquery.localScroll": [
+    "jquery",
+    "jquery.scrollTo"
+  ],
+  "jquery.maskedinput": [
+    "jquery"
+  ],
+  "jquery.mosaicflow": [
+    "jquery"
+  ],
+  "jquery.neotabs.js": [
+    "jquery",
+    "jasmine-jquery"
+  ],
+  "jquery.outbound-analytics": [
+    "jquery"
+  ],
+  "jquery.pub-sub-validate": [
+    "es5-shim",
+    "jquery",
+    "jquery-tiny-pubsub",
+    "bootstrap"
+  ],
+  "jquery.render": [
+    "jquery"
+  ],
+  "jquery.scrollTo": [
+    "jquery"
+  ],
+  "jquery.selectalize": [
+    "jquery"
+  ],
+  "jquery.serialScroll": [
+    "jquery",
+    "jquery.scrollTo"
+  ],
+  "jquery.sidebar": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "jquery.slidawall": [
+    "jquery"
+  ],
+  "jquery.slideShow": [
+    "jquery"
+  ],
+  "jquery.stellar": [
+    "jquery"
+  ],
+  "jquery.tablesorter": [
+    "jquery"
+  ],
+  "jquery.taboverride": [
+    "jquery",
+    "taboverride"
+  ],
+  "jquery.textareaAutogrow": [
+    "jquery"
+  ],
+  "jquery.tipFiveThree": [
+    "jquery"
+  ],
+  "jquery.toc": [
+    "jquery"
+  ],
+  "jquery.tokko.js": [
+    "jquery"
+  ],
+  "jquery.transition": [
+    "jquery"
+  ],
+  "jquery.trueresize": [
+    "jquery"
+  ],
+  "jquery.tube": [
+    "jquery"
+  ],
+  "jquery.ut-image-panel": [
+    "jquery",
+    "urturn-expression-css"
+  ],
+  "jquery.ut-sticker": [
+    "jquery"
+  ],
+  "jqueryui-selectmenu": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "jskit": [
+    "sinon",
+    "requirejs",
+    "qunit"
+  ],
+  "jskit-jqm": [
+    "jquery",
+    "requirejs",
+    "qunit",
+    "sinon",
+    "jskit",
+    "backbone-min"
+  ],
+  "jskit-jquery": [
+    "jquery",
+    "requirejs",
+    "qunit",
+    "sinon",
+    "jskit",
+    "underscore",
+    "mustache"
+  ],
+  "jt.timepicker": [
+    "jquery"
+  ],
+  "karma-cucumber": [
+    "async",
+    "jquery",
+    "uitest.js"
+  ],
+  "kendo": [
+    "jquery"
+  ],
+  "keys.less": [
+    "bootstrap"
+  ],
+  "kievII": [
+    "hammerjs"
+  ],
+  "knockout-kinetic": [
+    "knockout"
+  ],
+  "knockout-postbox": [
+    "knockout"
+  ],
+  "knockout-require-templates": [
+    "knockout",
+    "requirejs",
+    "text"
+  ],
+  "knockout-sortable": [
+    "knockout",
+    "jquery",
+    "jquery-ui"
+  ],
+  "knockup": [
+    "knockout",
+    "qunit"
+  ],
+  "layer": [
+    "requirejs",
+    "modernizr",
+    "jquery",
+    "underscore",
+    "backbone"
+  ],
+  "layerBackbone": [
+    "requirejs",
+    "modernizr",
+    "jquery",
+    "underscore",
+    "backbone"
+  ],
+  "layoutmanager": [
+    "jquery",
+    "underscore",
+    "backbone"
+  ],
+  "lazy": [
+    "jquery"
+  ],
+  "lazyimg": [
+    "jquery"
+  ],
+  "listahan": [
+    "jquery"
+  ],
+  "loadmore": [
+    "jquery"
+  ],
+  "log4j-simple-amd": [
+    "requirejs"
+  ],
+  "lorem": [
+    "jquery"
+  ],
+  "lungo": [
+    "quojs"
+  ],
+  "lungo.brownie": [
+    "quojs"
+  ],
+  "lungo.icon": [
+    "lungo"
+  ],
+  "lungo.theme": [
+    "lungo.brownie"
+  ],
+  "m6web-select2": [
+    "jquery"
+  ],
+  "machina.js": [
+    "underscore"
+  ],
+  "mixin-request": [
+    "x-tag-core"
+  ],
+  "mixitup": [
+    "jquery"
+  ],
+  "modullatte": [
+    "js-beautify"
+  ],
+  "monocle": [
+    "quojs"
+  ],
+  "morris.js": [
+    "jquery",
+    "raphael"
+  ],
+  "msgs": [
+    "when"
+  ],
+  "must": [
+    "jquery"
+  ],
+  "n3": [
+    "d3"
+  ],
+  "nanoscroller": [
+    "jquery"
+  ],
+  "ng-boolean-radio": [
+    "angular",
+    "angular-mocks"
+  ],
+  "ng-translate": [
+    "angular"
+  ],
+  "ngx-library": [
+    "jquery",
+    "angular"
+  ],
+  "nucleus-angular": [
+    "object-array-utility",
+    "store.js",
+    "json3"
+  ],
+  "nucleus-angular-rest": [
+    "string-json-parser",
+    "es5-shim"
+  ],
+  "nurunworkshop.maladiegrave": [
+    "jquery"
+  ],
+  "nurunworkshop.mcorriveau": [
+    "jquery"
+  ],
+  "nurunworkshop.plugintest": [
+    "jquery"
+  ],
+  "nurunworkshop.podel": [
+    "jquery"
+  ],
+  "octo": [
+    "superagent"
+  ],
+  "ok": [
+    "underscore"
+  ],
+  "olay": [
+    "jquery"
+  ],
+  "opentip": [
+    "jquery"
+  ],
+  "packery": [
+    "classie",
+    "doc-ready",
+    "eventEmitter",
+    "eventie",
+    "get-size",
+    "get-style-property",
+    "jquery-bridget",
+    "matches-selector"
+  ],
+  "pajamas": [
+    "q"
+  ],
+  "parsleyjs": [
+    "jquery"
+  ],
+  "peity": [
+    "jquery"
+  ],
+  "phonegap-shim": [
+    "jquery"
+  ],
+  "photoset-grid": [
+    "jquery"
+  ],
+  "pjax": [
+    "jquery"
+  ],
+  "placeholder": [
+    "jquery"
+  ],
+  "pollo": [
+    "jquery"
+  ],
+  "progressbars": [
+    "jquery"
+  ],
+  "promise-tracker": [
+    "angular",
+    "angular-mocks",
+    "angular-unstable"
+  ],
+  "promiser": [
+    "jquery"
+  ],
+  "quicksandpaginated": [
+    "jquery",
+    "jquery.quicksand.js"
+  ],
+  "rec": [
+    "jquery",
+    "underscore"
+  ],
+  "rekapi": [
+    "shifty",
+    "underscore",
+    "qunit",
+    "requirejs",
+    "jquery",
+    "ace-builds",
+    "rekapi-controls"
+  ],
+  "rekapi-controls": [
+    "jquery-dragon"
+  ],
+  "require-hm": [
+    "esprima"
+  ],
+  "require-jade": [
+    "requirejs"
+  ],
+  "require.replace": [
+    "requirejs"
+  ],
+  "requirejs-doT": [
+    "requirejs-text",
+    "requirejs",
+    "doT"
+  ],
+  "rest": [
+    "when"
+  ],
+  "restangular": [
+    "lodash",
+    "angular",
+    "angular-resource"
+  ],
+  "robo": [
+    "jquery",
+    "backbone-amd",
+    "underscore-amd",
+    "requirejs",
+    "compose.js"
+  ],
+  "romania-choropleth": [
+    "d3",
+    "queue",
+    "topojson",
+    "handlebars"
+  ],
+  "rough-navigation-toggle": [
+    "jquery"
+  ],
+  "roughdraft.js": [
+    "jquery"
+  ],
+  "ruban": [
+    "jquery",
+    "keymaster",
+    "hammerjs",
+    "normalize-css",
+    "font-awesome",
+    "highlightjs"
+  ],
+  "sass-bootstrap": [
+    "jquery"
+  ],
+  "scenejs": [
+    "jquery",
+    "underscore"
+  ],
+  "scrollMonitor": [
+    "jquery"
+  ],
+  "scrollbottom": [
+    "jquery"
+  ],
+  "scrolling-list": [
+    "x-tag-core"
+  ],
+  "scrolltonav.jquery.js": [
+    "jquery"
+  ],
+  "sdis62-ui": [
+    "bootstrap",
+    "less.js",
+    "modernizr",
+    "jquery.tablesorter",
+    "tablesorter.theme.bootstrap2.css",
+    "chosen"
+  ],
+  "sebastian": [
+    "jquery"
+  ],
+  "select2": [
+    "jquery"
+  ],
+  "selectskin": [
+    "jquery"
+  ],
+  "shattergraph.js": [
+    "jquery"
+  ],
+  "sidr": [
+    "jquery"
+  ],
+  "simpleUri": [
+    "jquery"
+  ],
+  "sinatra-stagehand": [
+    "jquery",
+    "html5-boilerplate",
+    "bootstrap",
+    "font-awesome"
+  ],
+  "slickgrid-bootstrap": [
+    "jquery",
+    "jquery-ui",
+    "bootstrap",
+    "slickgrid"
+  ],
+  "slidesjs-bower": [
+    "jquery"
+  ],
+  "slob": [
+    "jquery",
+    "backbone",
+    "handlebars",
+    "lodash",
+    "requirejs",
+    "json3"
+  ],
+  "sly": [
+    "jquery"
+  ],
+  "social-likes": [
+    "jquery"
+  ],
+  "socialfeed": [
+    "jquery"
+  ],
+  "songlocator-api": [
+    "songlocator-base"
+  ],
+  "songlocator-backbone": [
+    "jquery",
+    "backbone",
+    "underscore"
+  ],
+  "songlocator-deezer": [
+    "songlocator-base"
+  ],
+  "songlocator-exfm": [
+    "songlocator-base"
+  ],
+  "songlocator-soundcloud": [
+    "songlocator-base"
+  ],
+  "songlocator-spotify": [
+    "songlocator-base"
+  ],
+  "songlocator-youtube": [
+    "songlocator-base"
+  ],
+  "spectrum": [
+    "jquery"
+  ],
+  "spotify": [
+    "jquery"
+  ],
+  "sr-json": [
+    "hogan"
+  ],
+  "stacknav.jquery.js": [
+    "jquery"
+  ],
+  "stateMachine": [
+    "eventEmitter",
+    "requirejs",
+    "jasmine"
+  ],
+  "stickem": [
+    "jquery"
+  ],
+  "stitch-grid": [
+    "stitch-utils",
+    "stitch-breakpoints"
+  ],
+  "stitch-text": [
+    "stitch-utils"
+  ],
+  "streamhub-backbone": [
+    "jquery",
+    "requirejs",
+    "requirejs-text",
+    "underscore",
+    "mustache",
+    "backbone",
+    "jasmine",
+    "jasmine-jquery"
+  ],
+  "streamhub-isotope": [
+    "streamhub-backbone",
+    "isotope",
+    "jasmine"
+  ],
+  "streamhub-slidesjs": [
+    "streamhub-backbone",
+    "slidesjs-bower"
+  ],
+  "style-buttons": [
+    "stylus-type-utils"
+  ],
+  "suit": [
+    "suit-utils",
+    "suit-button",
+    "suit-button-group",
+    "suit-flex-embed",
+    "suit-grid",
+    "suit-grid-layouts"
+  ],
+  "suit-grid-layouts": [
+    "suit-grid"
+  ],
+  "suit-utils": [
+    "suit-utils-dimension",
+    "suit-utils-display",
+    "suit-utils-layout",
+    "suit-utils-link",
+    "suit-utils-space",
+    "suit-utils-state",
+    "suit-utils-text"
+  ],
+  "sumatra": [
+    "jquery",
+    "underscore",
+    "bootstrap.css"
+  ],
+  "swig": [
+    "underscore"
+  ],
+  "switchboard": [
+    "node-uuid",
+    "eventemitter2"
+  ],
+  "tablesorter": [
+    "jquery"
+  ],
+  "thingiviewjs": [
+    "threejs"
+  ],
+  "thorax": [
+    "jquery",
+    "zepto",
+    "handlebars",
+    "underscore",
+    "backbone"
+  ],
+  "thrust-js": [
+    "backbone",
+    "bootstrap",
+    "DefinitelyTyped",
+    "director",
+    "doT",
+    "es5-shim",
+    "has",
+    "jasmine",
+    "jasmine.async",
+    "jquery",
+    "knockout",
+    "knockout.mapping",
+    "lodash",
+    "requirejs",
+    "requirejs-domready",
+    "requirejs-i18n",
+    "requirejs-text",
+    "requirejs-intellisense",
+    "xrayquire",
+    "when",
+    "zepto",
+    "reqwest",
+    "node-uuid",
+    "underscore.string"
+  ],
+  "thumbs": [
+    "backbone",
+    "underscore",
+    "jquery"
+  ],
+  "tmpl.js": [
+    "jquery"
+  ],
+  "trip.js": [
+    "jquery"
+  ],
+  "twoface": [
+    "bourbon",
+    "neat"
+  ],
+  "typeahead.js": [
+    "jquery"
+  ],
+  "typekit-load": [
+    "async-load",
+    "dom-class"
+  ],
+  "underscore-inherit": [
+    "underscore"
+  ],
+  "underscore-inherits": [
+    "underscore"
+  ],
+  "underscore-partials": [
+    "underscore"
+  ],
+  "underscore.transparent": [
+    "underscore"
+  ],
+  "url-js": [
+    "jquery",
+    "lodash"
+  ],
+  "urturn-expression-css": [
+    "normalize.scss"
+  ],
+  "useful": [
+    "jquery"
+  ],
+  "utils": [
+    "jquery",
+    "underscore",
+    "Backbone-Mediator"
+  ],
+  "velcro.js": [
+    "bootstrap",
+    "less.js",
+    "moment",
+    "qunit",
+    "requirejs"
+  ],
+  "vertebrae": [
+    "jquery",
+    "underscore",
+    "backbone"
+  ],
+  "wand-boilerplate": [
+    "requirejs",
+    "requirejs-domready",
+    "requirejs-text",
+    "modernizr",
+    "jquery",
+    "underscore",
+    "backbone",
+    "handlebars",
+    "wand"
+  ],
+  "wiseteck-geocomplete": [
+    "jquery"
+  ],
+  "x-panel": [
+    "x-tag-core",
+    "x-tag-mixin-request"
+  ],
+  "x-slidebox": [
+    "x-tag-core"
+  ],
+  "x-switch": [
+    "x-tag-core"
+  ],
+  "x-tag-code-prism": [
+    "x-tag-core"
+  ],
+  "x-tag-core": [
+    "document.register"
+  ],
+  "x-tag-growbox": [
+    "x-tag-core"
+  ],
+  "x-tag-mixin-request": [
+    "x-tag-core"
+  ],
+  "xortable": [
+    "jquery"
+  ],
+  "yabbe": [
+    "backbone"
+  ],
+  "yabox.js": [
+    "jquery",
+    "jquery.center.js"
+  ],
+  "zanimo": [
+    "q"
+  ]
+}
